@@ -1,0 +1,24 @@
+
+> community-loop-lab-web@0.1.0 build
+> tsc && vite build
+
+vite v6.4.3 building for production...
+transforming...
+✓ 1385 modules transformed.
+rendering chunks...
+[plugin vite:reporter] 
+(!) <repository>/MemoryPanel/web/src/lib/teamApi.ts is dynamically imported by <repository>/MemoryPanel/web/src/services/user-profile-store.ts, <repository>/MemoryPanel/web/src/services/user-profile-store.ts but also statically imported by <repository>/MemoryPanel/web/src/components/LoginGate.tsx, <repository>/MemoryPanel/web/src/components/SettingsDialog.tsx, <repository>/MemoryPanel/web/src/components/team/AgentEditDialog.tsx, <repository>/MemoryPanel/web/src/components/team/DefaultAgentTemplateDialog.tsx, <repository>/MemoryPanel/web/src/components/team/DefaultAgentTemplateSection.tsx, <repository>/MemoryPanel/web/src/components/team/MemberSection.tsx, <repository>/MemoryPanel/web/src/components/team/TeamManagementPanel.tsx, <repository>/MemoryPanel/web/src/components/team/useAgentAssets.ts, <repository>/MemoryPanel/web/src/layouts/GlobalHeader/TeamSwitcher.tsx, <repository>/MemoryPanel/web/src/pages/ApiKeysPage/components/ApiKeyPanel.tsx, <repository>/MemoryPanel/web/src/pages/ChatMemoryPage/components/ChatMemoryPanel.tsx, <repository>/MemoryPanel/web/src/pages/ChatMemoryPage/hooks/useChatMemory.ts, <repository>/MemoryPanel/web/src/pages/ChatMemoryPage/utils/memory-utils.ts, <repository>/MemoryPanel/web/src/pages/GuidePage/index.tsx, <repository>/MemoryPanel/web/src/pages/SkillsPage/hooks/useSkillsPanel.ts, <repository>/MemoryPanel/web/src/pages/WorkbenchPage/hooks/useTeamParticipation.ts, <repository>/MemoryPanel/web/src/services/backendStore.ts, <repository>/MemoryPanel/web/src/stores/auth.ts, <repository>/MemoryPanel/web/src/stores/backend.ts, dynamic import will not move module into another chunk.
+
+computing gzip size...
+dist/index.html                              0.45 kB │ gzip:   0.29 kB
+dist/assets/KnowledgeGraph-DEqMBSbC.css      2.36 kB │ gzip:   0.54 kB
+dist/assets/main-bnBZD4oT.css              554.80 kB │ gzip:  90.72 kB
+dist/assets/KnowledgeGraph-CQKM7_Ie.js     181.80 kB │ gzip:  45.22 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+dist/assets/main-j9t5WU1o.js             1,951.80 kB │ gzip: 483.19 kB
+✓ built in 8.81s
+

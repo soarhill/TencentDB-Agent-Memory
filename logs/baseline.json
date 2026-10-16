@@ -1,0 +1,96 @@
+{
+  "source": {
+    "mode": "baseline",
+    "baseSha": "e9a82935b52741e0c798c75326e90b7144eb4d5f",
+    "sourceHead": "384c4fb95f98c736b8d3e6298279d6113098e1e3",
+    "workingTree": "",
+    "tabBarSource": "e9a82935b52741e0c798c75326e90b7144eb4d5f",
+    "node": "v24.21.0",
+    "vite": "6.4.3"
+  },
+  "browser": "155.0.8059.80",
+  "recordedAt": "2026-10-16T10:17:25.710Z",
+  "reproduced": 4,
+  "results": [
+    {
+      "active": "wiki",
+      "input": "Enter",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": true
+          }
+        ]
+      },
+      "targetRemaining": 1,
+      "defectReproduced": true
+    },
+    {
+      "active": "wiki",
+      "input": "Space",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": true
+          }
+        ]
+      },
+      "targetRemaining": 1,
+      "defectReproduced": true
+    },
+    {
+      "active": "code",
+      "input": "Enter",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": true
+          }
+        ]
+      },
+      "targetRemaining": 1,
+      "defectReproduced": true
+    },
+    {
+      "active": "code",
+      "input": "Space",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": true
+          }
+        ]
+      },
+      "targetRemaining": 1,
+      "defectReproduced": true
+    }
+  ]
+}

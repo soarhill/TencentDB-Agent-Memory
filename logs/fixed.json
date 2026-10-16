@@ -1,0 +1,752 @@
+{
+  "startedAt": "2026-10-16T10:15:43.749Z",
+  "finishedAt": "2026-10-16T10:15:53.296Z",
+  "source": {
+    "mode": "fixed",
+    "baseSha": "e9a82935b52741e0c798c75326e90b7144eb4d5f",
+    "sourceHead": "384c4fb95f98c736b8d3e6298279d6113098e1e3",
+    "workingTree": "",
+    "tabBarSource": "working-tree",
+    "node": "v24.21.0",
+    "vite": "6.4.3"
+  },
+  "browser": "155.0.8059.80",
+  "passed": 30,
+  "results": [
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "Enter",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "Space",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "mouse",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "code",
+      "input": "Enter",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "code",
+      "input": "Space",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "en-US",
+      "active": "code",
+      "input": "mouse",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "container",
+      "lang": "en-US",
+      "input": "Enter",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": true
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "container",
+      "lang": "en-US",
+      "input": "Space",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": true
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "Enter",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "Space",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "mouse",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "Enter",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "Space",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "component-close",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "mouse",
+      "actual": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "container",
+      "lang": "zh-CN",
+      "input": "Enter",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": true
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "container",
+      "lang": "zh-CN",
+      "input": "Space",
+      "actual": {
+        "navigate": [
+          "wiki"
+        ],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": true
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "live-language-change",
+      "actual": [
+        {
+          "lang": "zh-CN",
+          "label": "Wiki 知识库",
+          "accessibleName": "关闭Wiki 知识库"
+        },
+        {
+          "lang": "en-US",
+          "label": "Wiki Knowledge Base",
+          "accessibleName": "Close Wiki Knowledge Base"
+        }
+      ],
+      "sameTabAndDocument": true,
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "Enter",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "Space",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "wiki",
+      "input": "mouse",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "code",
+      "input": "Enter",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "code",
+      "input": "Space",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "en-US",
+      "active": "code",
+      "input": "mouse",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "Enter",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "Space",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "wiki",
+      "input": "mouse",
+      "routeBefore": "/wiki",
+      "addedRoutes": [
+        "/code"
+      ],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "Enter",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": "Enter",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "Space",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "suite": "layout-fallback",
+      "lang": "zh-CN",
+      "active": "code",
+      "input": "mouse",
+      "routeBefore": "/code",
+      "addedRoutes": [],
+      "actual": {
+        "navigate": [],
+        "close": [],
+        "routes": [
+          "/",
+          "/wiki",
+          "/code"
+        ],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": []
+      },
+      "pass": true
+    },
+    {
+      "suite": "tab-order-and-space-release",
+      "focusOrder": [
+        "tab-workbench_board",
+        "tab-wiki",
+        "tab-wiki-close",
+        "tab-code",
+        "tab-code-close"
+      ],
+      "afterDown": {
+        "navigate": [],
+        "close": [],
+        "routes": [],
+        "clicks": [],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "afterUp": {
+        "navigate": [],
+        "close": [
+          "wiki"
+        ],
+        "routes": [],
+        "clicks": [
+          "tab-wiki"
+        ],
+        "keys": [
+          {
+            "key": " ",
+            "prevented": false
+          }
+        ]
+      },
+      "pass": true
+    }
+  ],
+  "pageErrors": [],
+  "failedRequests": [],
+  "httpErrors": [],
+  "consoleMessages": [
+    {
+      "type": "error",
+      "text": "Warning: forwardRef render functions accept exactly two parameters: props and ref. %s Did you forget to use the ref parameter?",
+      "count": 30
+    },
+    {
+      "type": "error",
+      "text": "Warning: findDOMNode is deprecated and will be removed in the next major release. Instead, add a ref directly to the element you want to reference. Learn more about using refs safely here: https://reactjs.org/link/strict-mode-find-node%s ",
+      "count": 12
+    }
+  ]
+}
